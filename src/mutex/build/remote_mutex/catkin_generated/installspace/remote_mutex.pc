@@ -1,0 +1,8 @@
+prefix=/home/aiu/Documents/safety/src/mutex/install
+
+Name: remote_mutex
+Description: Description of remote_mutex
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lremote_mutex -lmutex_guard
+Requires: roscpp remote_mutex_msgs

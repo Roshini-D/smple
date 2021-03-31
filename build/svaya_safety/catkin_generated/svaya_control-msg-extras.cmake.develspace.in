@@ -1,0 +1,2 @@
+set(svaya_control_MESSAGE_FILES "/home/safety_control/src/svaya_safety/msg/JointLimit.msg;/home/safety_control/src/svaya_safety/msg/SafetyPlane.msg;/home/safety_control/src/svaya_safety/msg/Tool.msg;/home/safety_control/src/svaya_safety/msg/SafetyData.msg;/home/safety_control/src/svaya_safety/msg/SafetyDataArr.msg;/home/safety_control/src/svaya_safety/msg/SafetyError.msg;/home/safety_control/src/svaya_safety/msg/SafetyErrorArr.msg;/home/safety_control/src/svaya_safety/msg/master_id.msg")
+set(svaya_control_SERVICE_FILES "")

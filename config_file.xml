@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+	<Master count="2">
+		<master name="slave">
+		   <Details master_Id="1" node_name="safety1" />
+		   <?publisher_name="Safety1_Checksum" subscriber_name="Safety2_Checksum"/?>
+		</master>
+	</Master>
+
+
+	
+
+

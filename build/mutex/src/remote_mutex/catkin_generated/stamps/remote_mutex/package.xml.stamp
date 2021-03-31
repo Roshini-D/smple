@@ -1,0 +1,19 @@
+<package format="2">
+  <name>remote_mutex</name>
+  <version>0.0.0</version>
+  <description>remote_mutex</description>
+  <maintainer email="afourast@gmail.com">Afouras Triantafyllos</maintainer>
+
+  <license>BSD</license>
+
+  <url type="bugtracker">https://github.com/pandora-auth-ros-pkg/pandora_common/issues</url>
+  <url type="repository">https://github.com/pandora-auth-ros-pkg/pandora_common.git</url>
+
+  <author>Software Architecture Team</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>remote_mutex_msgs</depend>
+
+</package>

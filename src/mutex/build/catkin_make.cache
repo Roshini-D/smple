@@ -1,0 +1,2 @@
+remote_mutex:remote_mutex_msgs
+-DCATKIN_DEVEL_PREFIX=/home/aiu/Documents/safety/src/mutex/devel -DCMAKE_INSTALL_PREFIX=/home/aiu/Documents/safety/src/mutex/install -G Unix Makefiles

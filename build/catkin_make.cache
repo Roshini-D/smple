@@ -1,0 +1,2 @@
+mutex/src/remote_mutex:mutex/src/remote_mutex_msgs:svaya_safety
+-DCATKIN_DEVEL_PREFIX=/home/safety_control/devel -DCMAKE_INSTALL_PREFIX=/home/safety_control/install -G Unix Makefiles

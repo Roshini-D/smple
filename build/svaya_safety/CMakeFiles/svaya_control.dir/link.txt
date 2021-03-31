@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11 -w   -shared -Wl,-soname,libsvaya_control.so -o /home/safety_control/devel/lib/libsvaya_control.so CMakeFiles/svaya_control.dir/src/safety_controller.cpp.o  -L/opt/etherlab/lib 

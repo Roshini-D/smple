@@ -1,0 +1,8 @@
+prefix=/home/safety_control/devel
+
+Name: svaya_control
+Description: Description of svaya_control
+Version: 0.0.0
+Cflags: -I/home/safety_control/devel/include -I/home/safety_control/src/svaya_safety/include
+Libs: -L${prefix}/lib 
+Requires: roscpp remote_mutex
